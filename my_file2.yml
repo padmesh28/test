@@ -1,0 +1,2 @@
+- name: Creates directory
+  file: path=/src/www state=directory
